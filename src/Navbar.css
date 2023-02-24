@@ -1,0 +1,19 @@
+.logo {
+    width: 120px;
+    padding-left: 12px;
+   
+}
+
+.nav {
+    position: fixed;
+    top: 0px;
+    padding: 20px;
+    width: 100%;
+
+}
+
+.nav_black {
+    background-color: rgba(0, 0, 0, .4);
+    z-index: 1;
+   
+}
